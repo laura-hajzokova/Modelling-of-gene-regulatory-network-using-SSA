@@ -1,0 +1,3 @@
+Stochastic simulations of the 11-stage protein cascade model. Here we observe a change in sample mean depending on the system volume parameter. The syntetic cascade is consrtucted to achieve a bistability in the deterministic case.
+
+To run the simulations it is necessary to download the .zip file with models of chemical reactions in .psc format
